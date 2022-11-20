@@ -1,2 +1,2 @@
 # react-style-project
-repo to learn how to use [styled] or [module] css in React
+react playground to train dynamic styles in react and stuff like that.
